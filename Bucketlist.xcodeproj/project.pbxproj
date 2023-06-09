@@ -13,6 +13,7 @@
 		75792F5F2A32EB160095A7C5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 75792F5E2A32EB160095A7C5 /* Preview Assets.xcassets */; };
 		75792F672A330D340095A7C5 /* Location.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75792F662A330D340095A7C5 /* Location.swift */; };
 		75792F692A3314510095A7C5 /* EditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75792F682A3314510095A7C5 /* EditView.swift */; };
+		75792F6B2A3319C40095A7C5 /* Result.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75792F6A2A3319C40095A7C5 /* Result.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		75792F652A32EE910095A7C5 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		75792F662A330D340095A7C5 /* Location.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Location.swift; sourceTree = "<group>"; };
 		75792F682A3314510095A7C5 /* EditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditView.swift; sourceTree = "<group>"; };
+		75792F6A2A3319C40095A7C5 /* Result.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Result.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 			children = (
 				75792F572A32EB150095A7C5 /* BucketlistApp.swift */,
 				75792F592A32EB150095A7C5 /* ContentView.swift */,
+				75792F6A2A3319C40095A7C5 /* Result.swift */,
 				75792F682A3314510095A7C5 /* EditView.swift */,
 				75792F662A330D340095A7C5 /* Location.swift */,
 				75792F5B2A32EB160095A7C5 /* Assets.xcassets */,
@@ -146,6 +149,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				75792F5A2A32EB150095A7C5 /* ContentView.swift in Sources */,
+				75792F6B2A3319C40095A7C5 /* Result.swift in Sources */,
 				75792F672A330D340095A7C5 /* Location.swift in Sources */,
 				75792F692A3314510095A7C5 /* EditView.swift in Sources */,
 				75792F582A32EB150095A7C5 /* BucketlistApp.swift in Sources */,
