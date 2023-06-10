@@ -12,3 +12,7 @@ How to:
 3. Store data privately and securely such that only authenticated users can access it
 4. Load and save the data outside of `UserDefaults`
 
+## Notes
+- The Wikipedia API key used in this project was depricated and therefore wouldn't work.
+- It could be updated with the most up to date format, however Wikipedia has a disclaimer that they can and do change
+    API keys as needed without reservation. 
