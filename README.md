@@ -11,8 +11,10 @@ How to:
 2. Embed maps in a SwiftUI app 
 3. Store data privately and securely such that only authenticated users can access it
 4. Load and save the data outside of `UserDefaults`
+5. Design the app's architecture to conform to MVVM  
 
 ## Notes
 - The Wikipedia API key used in this project was depricated and therefore wouldn't work.
 - It could be updated with the most up to date format, however Wikipedia has a disclaimer that they can and do change
     API keys as needed without reservation. 
+- [Wikimedia API usage](https://en.wikipedia.org/w/api.php)
