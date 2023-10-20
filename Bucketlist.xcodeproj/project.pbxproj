@@ -11,7 +11,14 @@
 		755AC23D2AE2DCF70007742F /* LightModeGif1.gif in Resources */ = {isa = PBXBuildFile; fileRef = 755AC23A2AE2DCF70007742F /* LightModeGif1.gif */; };
 		755AC23E2AE2DCF70007742F /* LightModeGif2.gif in Resources */ = {isa = PBXBuildFile; fileRef = 755AC23B2AE2DCF70007742F /* LightModeGif2.gif */; };
 		755AC23F2AE2DCF70007742F /* LightModeGif3.gif in Resources */ = {isa = PBXBuildFile; fileRef = 755AC23C2AE2DCF70007742F /* LightModeGif3.gif */; };
-		755AC2712AE2E2E50007742F /* DarkModeScene1-2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 755AC2702AE2E2E50007742F /* DarkModeScene1-2.jpg */; };
+		755AC27A2AE2E4950007742F /* DarkModeScene2.png in Resources */ = {isa = PBXBuildFile; fileRef = 755AC2722AE2E4950007742F /* DarkModeScene2.png */; };
+		755AC27B2AE2E4950007742F /* DarkModeScene1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 755AC2732AE2E4950007742F /* DarkModeScene1.jpg */; };
+		755AC27C2AE2E4950007742F /* LightModeScene2.png in Resources */ = {isa = PBXBuildFile; fileRef = 755AC2742AE2E4950007742F /* LightModeScene2.png */; };
+		755AC27D2AE2E4950007742F /* DarkModeScene3.png in Resources */ = {isa = PBXBuildFile; fileRef = 755AC2752AE2E4950007742F /* DarkModeScene3.png */; };
+		755AC27E2AE2E4950007742F /* LightModeScene4.png in Resources */ = {isa = PBXBuildFile; fileRef = 755AC2762AE2E4950007742F /* LightModeScene4.png */; };
+		755AC27F2AE2E4950007742F /* LightModeScene3.png in Resources */ = {isa = PBXBuildFile; fileRef = 755AC2772AE2E4950007742F /* LightModeScene3.png */; };
+		755AC2802AE2E4950007742F /* LightModeScene1.png in Resources */ = {isa = PBXBuildFile; fileRef = 755AC2782AE2E4950007742F /* LightModeScene1.png */; };
+		755AC2812AE2E4950007742F /* DarkModeScene4.png in Resources */ = {isa = PBXBuildFile; fileRef = 755AC2792AE2E4950007742F /* DarkModeScene4.png */; };
 		756BD03C2A3452340086B87D /* ContentView-ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 756BD03B2A3452340086B87D /* ContentView-ViewModel.swift */; };
 		756BD03E2A345DCE0086B87D /* FileManager-DocumentsDirectory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 756BD03D2A345DCE0086B87D /* FileManager-DocumentsDirectory.swift */; };
 		75792F582A32EB150095A7C5 /* BucketlistApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75792F572A32EB150095A7C5 /* BucketlistApp.swift */; };
@@ -28,7 +35,14 @@
 		755AC23A2AE2DCF70007742F /* LightModeGif1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = LightModeGif1.gif; sourceTree = "<group>"; };
 		755AC23B2AE2DCF70007742F /* LightModeGif2.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = LightModeGif2.gif; sourceTree = "<group>"; };
 		755AC23C2AE2DCF70007742F /* LightModeGif3.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = LightModeGif3.gif; sourceTree = "<group>"; };
-		755AC2702AE2E2E50007742F /* DarkModeScene1-2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "DarkModeScene1-2.jpg"; sourceTree = "<group>"; };
+		755AC2722AE2E4950007742F /* DarkModeScene2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = DarkModeScene2.png; sourceTree = "<group>"; };
+		755AC2732AE2E4950007742F /* DarkModeScene1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = DarkModeScene1.jpg; sourceTree = "<group>"; };
+		755AC2742AE2E4950007742F /* LightModeScene2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LightModeScene2.png; sourceTree = "<group>"; };
+		755AC2752AE2E4950007742F /* DarkModeScene3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = DarkModeScene3.png; sourceTree = "<group>"; };
+		755AC2762AE2E4950007742F /* LightModeScene4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LightModeScene4.png; sourceTree = "<group>"; };
+		755AC2772AE2E4950007742F /* LightModeScene3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LightModeScene3.png; sourceTree = "<group>"; };
+		755AC2782AE2E4950007742F /* LightModeScene1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LightModeScene1.png; sourceTree = "<group>"; };
+		755AC2792AE2E4950007742F /* DarkModeScene4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = DarkModeScene4.png; sourceTree = "<group>"; };
 		756BD03B2A3452340086B87D /* ContentView-ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ContentView-ViewModel.swift"; sourceTree = "<group>"; };
 		756BD03D2A345DCE0086B87D /* FileManager-DocumentsDirectory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "FileManager-DocumentsDirectory.swift"; sourceTree = "<group>"; };
 		75792F542A32EB150095A7C5 /* Bucketlist.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Bucketlist.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -56,7 +70,14 @@
 		755AC21E2AE2D1260007742F /* Images */ = {
 			isa = PBXGroup;
 			children = (
-				755AC2702AE2E2E50007742F /* DarkModeScene1-2.jpg */,
+				755AC2732AE2E4950007742F /* DarkModeScene1.jpg */,
+				755AC2722AE2E4950007742F /* DarkModeScene2.png */,
+				755AC2752AE2E4950007742F /* DarkModeScene3.png */,
+				755AC2792AE2E4950007742F /* DarkModeScene4.png */,
+				755AC2782AE2E4950007742F /* LightModeScene1.png */,
+				755AC2742AE2E4950007742F /* LightModeScene2.png */,
+				755AC2772AE2E4950007742F /* LightModeScene3.png */,
+				755AC2762AE2E4950007742F /* LightModeScene4.png */,
 			);
 			path = Images;
 			sourceTree = "<group>";
@@ -173,13 +194,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				755AC27A2AE2E4950007742F /* DarkModeScene2.png in Resources */,
+				755AC27D2AE2E4950007742F /* DarkModeScene3.png in Resources */,
 				755AC23D2AE2DCF70007742F /* LightModeGif1.gif in Resources */,
 				755AC2392AE2DC1A0007742F /* DarkModeGif.gif in Resources */,
 				755AC23E2AE2DCF70007742F /* LightModeGif2.gif in Resources */,
 				755AC23F2AE2DCF70007742F /* LightModeGif3.gif in Resources */,
-				755AC2712AE2E2E50007742F /* DarkModeScene1-2.jpg in Resources */,
+				755AC27C2AE2E4950007742F /* LightModeScene2.png in Resources */,
+				755AC2802AE2E4950007742F /* LightModeScene1.png in Resources */,
+				755AC2812AE2E4950007742F /* DarkModeScene4.png in Resources */,
 				75792F5F2A32EB160095A7C5 /* Preview Assets.xcassets in Resources */,
+				755AC27F2AE2E4950007742F /* LightModeScene3.png in Resources */,
 				75792F5C2A32EB160095A7C5 /* Assets.xcassets in Resources */,
+				755AC27E2AE2E4950007742F /* LightModeScene4.png in Resources */,
+				755AC27B2AE2E4950007742F /* DarkModeScene1.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
