@@ -16,11 +16,11 @@ How to:
 
 ## Live Demo
 ### Light Mode
-![Light Mode GIF 1](https://github.com/MicahNjeru/Animations-iOS16/blob/main/Gifs/LightModeGif.gif)
-![Light Mode GIF 2](https://github.com/MicahNjeru/Animations-iOS16/blob/main/Gifs/LightModeGif.gif)
-![Light Mode GIF 3](https://github.com/MicahNjeru/Animations-iOS16/blob/main/Gifs/LightModeGif.gif)
+![Light Mode GIF 1](https://github.com/MicahNjeru/Bucketlist-iOS16/blob/main/Gifs/LightModeGif2.gif)
+![Light Mode GIF 2](https://github.com/MicahNjeru/Bucketlist-iOS16/blob/main/Gifs/LightModeGif1.gif)
+![Light Mode GIF 3](https://github.com/MicahNjeru/Bucketlist-iOS16/blob/main/Gifs/LightModeGif3.gif)
 ### Dark Mode
-![Dark Mode GIF 2](https://github.com/MicahNjeru/Animations-iOS16/blob/main/Gifs/DarkModeGif.gif)
+![Dark Mode GIF](https://github.com/MicahNjeru/Bucketlist-iOS16/blob/main/Gifs/DarkModeGif.gif)
 
 ## Screenshots
 ### Light Mode
