@@ -15,8 +15,8 @@
 
 ## Screenshots
 ### Light Mode
-![Light Mode Scene 1](https://github.com/MicahNjeru/Animations-iOS16/blob/main/Images/4194BADE-EDE7-4DC3-B44C-44A79AAB70B8_4_5005_c.jpeg)
-![Light Mode Scene 2](https://github.com/MicahNjeru/Animations-iOS16/blob/main/Images/E15C97D3-EB31-4D8F-AB52-F43900390516_4_5005_c.jpeg)
+![Light Mode Scene 1](https://github.com/MicahNjeru/Bucketlist-iOS16/blob/main/Images/LightModeScene1.PNG)
+![Light Mode Scene 2](https://github.com/MicahNjeru/Bucketlist-iOS16/blob/main/Images/LightModeScene2.PNG)
 
 ### Dark Mode
 ![Dark Mode Scene 1](https://github.com/MicahNjeru/Animations-iOS16/blob/main/Images/8FA954C9-A0E5-4AB0-AF72-4E3AB02CC1B5_4_5005_c.jpeg)
