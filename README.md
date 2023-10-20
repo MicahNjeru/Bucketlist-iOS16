@@ -7,18 +7,24 @@
 
 ## Live Demo
 ### Light Mode
-![Light Mode GIF 1](https://github.com/MicahNjeru/Animations-iOS16/blob/main/Gifs/LightModeGif.gif)
+![Light Mode GIF 1](https://github.com/MicahNjeru/Bucketlist-iOS16/blob/main/Gifs/LightModeGif1.gif)
+![Light Mode GIF 2](https://github.com/MicahNjeru/Bucketlist-iOS16/blob/main/Gifs/LightModeGif2.gif)
+![Light Mode GIF 3](https://github.com/MicahNjeru/Bucketlist-iOS16/blob/main/Gifs/LightModeGif3.gif)
 ### Dark Mode
-![Dark Mode GIF 2](https://github.com/MicahNjeru/Animations-iOS16/blob/main/Gifs/DarkModeGif.gif)
+![Dark Mode GIF](https://github.com/MicahNjeru/Bucketlist-iOS16/blob/main/Gifs/DarkModeGif.gif)
 
 ## Screenshots
 ### Light Mode
-![Light Mode Scene 1](https://github.com/MicahNjeru/Animations-iOS16/blob/main/Images/4194BADE-EDE7-4DC3-B44C-44A79AAB70B8_4_5005_c.jpeg)
-![Light Mode Scene 2](https://github.com/MicahNjeru/Animations-iOS16/blob/main/Images/E15C97D3-EB31-4D8F-AB52-F43900390516_4_5005_c.jpeg)
+![Light Mode Scene 1](https://github.com/MicahNjeru/Bucketlist-iOS16/blob/main/Images/LightModeScene1.png)
+![Light Mode Scene 2](https://github.com/MicahNjeru/Bucketlist-iOS16/blob/main/Images/LightModeScene2.png)
+![Light Mode Scene 3](https://github.com/MicahNjeru/Bucketlist-iOS16/blob/main/Images/LightModeScene3.png)
+![Light Mode Scene 4](https://github.com/MicahNjeru/Bucketlist-iOS16/blob/main/Images/LightModeScene4.png)
 
 ### Dark Mode
-![Dark Mode Scene 1](https://github.com/MicahNjeru/Animations-iOS16/blob/main/Images/8FA954C9-A0E5-4AB0-AF72-4E3AB02CC1B5_4_5005_c.jpeg)
-![Dark Mode Scene 2](https://github.com/MicahNjeru/Animations-iOS16/blob/main/Images/52665BFA-0552-4C0F-8C68-26E0B773AA65_4_5005_c.jpeg)
+![Dark Mode Scene 1](https://github.com/MicahNjeru/Bucketlist-iOS16/blob/main/Images/DarkModeScene1.jpg)
+![Dark Mode Scene 2](https://github.com/MicahNjeru/Bucketlist-iOS16/blob/main/Images/DarkModeScene2.png)
+![Dark Mode Scene 3](https://github.com/MicahNjeru/Bucketlist-iOS16/blob/main/Images/DarkModeScene3.png)
+![Dark Mode Scene 4](https://github.com/MicahNjeru/Bucketlist-iOS16/blob/main/Images/DarkModeScene4.png)
 
 ## What I've learned
 How to:
